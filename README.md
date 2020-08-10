@@ -1,6 +1,6 @@
 # vuemultiselectduallistbox
 
-### NPM package
+### NPM paquete / NPM package 
 [vuemultiselectduallistbox](https://www.npmjs.com/package/vue-multi-select-dual-box/v/0.1.0).
 
 ## Instalación del componente /Component installation
@@ -33,6 +33,7 @@ export default {
 
 ```
 ### Bind de opciones / Bind options
+
 ```
 data() {
     return {
@@ -51,6 +52,7 @@ data() {
     };
 },
 ```
+
 ### Finalmente: / Finally:
 
 ```
