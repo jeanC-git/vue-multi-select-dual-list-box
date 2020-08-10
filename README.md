@@ -14,7 +14,7 @@ npm i vue-multi-select-dual-box --save
 ### Uso / Use
 
 ```
-En tu componente de vue:
+En tu componente de vue: / On your vue component:
 
 import { MultiSelectDualBox } from "vue-multi-select-dual-box";
 export default {
