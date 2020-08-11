@@ -4,7 +4,8 @@
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build --target lib --name vue-multi-select-dual-box ./src/index.js"
+    "build": "vue-cli-service build --target lib --name vue-multi-select-dual-box ./src/index.js",
+    "build-githubpage": "vue-cli-service build"
   },
   "main": "./dist/vue-multi-select-dual-box.common.js",
   "files": [

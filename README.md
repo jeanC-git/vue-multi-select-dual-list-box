@@ -3,6 +3,9 @@
 ### NPM paquete / NPM package 
 [vuemultiselectduallistbox](https://www.npmjs.com/package/vue-multi-select-dual-box).
 
+### DEMO
+[Link demo](https://jeanc-git.github.io/vue-multi-select-dual-list-box/).
+
 ## Instalación del componente /Component installation
 
 ### Vía npm / via npm
