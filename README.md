@@ -1,7 +1,7 @@
 # vuemultiselectduallistbox
 
 ### NPM paquete / NPM package 
-[vuemultiselectduallistbox](https://www.npmjs.com/package/vue-multi-select-dual-box/v/0.1.0).
+[vuemultiselectduallistbox](https://www.npmjs.com/package/vue-multi-select-dual-box).
 
 ## Instalación del componente /Component installation
 
